@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm   Umar kahan</h1>
+<h1 align="center">Hi 👋, I'm   Umar khan</h1>
 <h3 align="center">I'm a MERN-stack developer passionate about building innovative and user-friendly applications with a focus on scalability.</h3>
 
 - 🌱 I’m currently learning **React Native**
