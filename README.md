@@ -14,7 +14,7 @@
 <a href="https://dev.to/umarkhan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="umarkhan0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umarkhan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umar-khan-06a7ba265" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22496899/umar-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22496899/umar-khan" height="30" width="40" /></a>
-<a href="https://fb.com/umar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umar khan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/umarkhan0109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umar khan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/umarkhan0109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarkhan21776" height="30" width="40" /></a>
 </p>
 
